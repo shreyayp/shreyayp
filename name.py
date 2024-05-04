@@ -1,10 +1,15 @@
-names="shreya yp"
-print(names)
-print(names[:])
-print(names[2:])
-print(names[-1:])
-print(names[-5:-1])
-print(names[::-1])
-print(names[::-3])
-sep='-'.join(names[::2])
-print(sep)
+
+def print_full_name(first, last):
+    def print_full_name(first, last):
+    print(f"Hello {first} {last}! You just delved into python")
+
+if __name__ == "__main__":
+    first_name = input()
+    last_name = input()
+    print_full_name(first_name, last_name)
+
+
+if __name__ == '__main__':
+    first_name = input()
+    last_name = input()
+    print_full_name(first_name, last_name)
