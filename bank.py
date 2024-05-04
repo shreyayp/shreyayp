@@ -1,5 +1,3 @@
-
-
 def withdraw(account,amount):
     if amount>account['balance']:
         print("Insufficient funds!")

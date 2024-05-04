@@ -45,4 +45,3 @@ print("Reversed list:", sample_list)
 # 11. clear(): Removes all elements from the list
 sample_list.clear()
 print("List after clearing:", sample_list)
-

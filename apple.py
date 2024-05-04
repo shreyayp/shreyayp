@@ -1,5 +1,3 @@
-### Hi there 👋
-
 apple=[10,5,30]
 print(apple)
 print(apple[1])

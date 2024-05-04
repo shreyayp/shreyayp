@@ -4,6 +4,3 @@ for i in range(0,n):
     ele=input('Enter the elements')
     shetty.append(ele)
 print(shetty)
-
-
-
